@@ -1,0 +1,15 @@
+# sbt / Scala
+target/
+project/target/
+.metals/
+.bloop/
+
+# IDE
+.idea/
+.vscode/
+
+# Generated outputs
+graph_*.dot
+mixer_*.dot
+metrics*.json
+*.png
